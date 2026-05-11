@@ -1,0 +1,51 @@
+StudentID,CourseID,CourseName,Grade,Semester,Year
+S019,C204,Algorithms,B+,1,2023
+S019,C201,Database Systems,D,2,2023
+S019,C206,Operating Systems,B+,2,2024
+S016,C206,Operating Systems,B-,2,2024
+S016,C204,Algorithms,B+,2,2023
+S017,C206,Operating Systems,B-,2,2023
+S015,C205,Mathematics,A-,1,2024
+S015,C210,Database Systems,F,2,2023
+S015,C201,Database Systems,D,2,2023
+S015,C207,Chemistry,D,1,2024
+S020,C207,Chemistry,B+,2,2023
+S020,C204,Algorithms,B+,2,2024
+S009,C207,Chemistry,A,1,2023
+S009,C210,Database Systems,A-,2,2024
+S009,C201,Database Systems,A,2,2023
+S007,C206,Operating Systems,B,1,2024
+S007,C202,Chemistry,B,2,2024
+S007,C207,Chemistry,F,2,2023
+S008,C207,Chemistry,B,1,2024
+S005,C201,Database Systems,C+,2,2024
+S005,C203,History,B,2,2023
+S005,C202,Chemistry,F,1,2023
+S006,C207,Chemistry,B,2,2023
+S006,C201,Database Systems,B,2,2024
+S006,C204,Algorithms,B,1,2023
+S006,C208,Economics,C+,1,2024
+S006,C210,Database Systems,B,2,2024
+S006,C205,Mathematics,A,2,2023
+S006,C209,Operating Systems,C+,1,2023
+S006,C209,Operating Systems,B,2,2023
+S003,C201,Database Systems,C,2,2024
+S004,C204,Algorithms,B+,1,2023
+S012,C204,Algorithms,C,2,2023
+S012,C210,Database Systems,B,1,2024
+S013,C205,Mathematics,C,2,2023
+S013,C206,Operating Systems,A-,2,2024
+S013,C203,History,C+,2,2024
+S013,C206,Operating Systems,B+,1,2023
+S010,C204,Algorithms,A-,1,2023
+S010,C206,Operating Systems,A,1,2024
+S011,C206,Operating Systems,F,1,2024
+S011,C205,Mathematics,A,1,2023
+S011,C203,History,F,2,2024
+S011,C204,Algorithms,C,1,2023
+S001,C210,Database Systems,C+,2,2023
+S001,C204,Algorithms,F,1,2024
+S001,C201,Database Systems,A,1,2024
+S001,C202,Chemistry,B+,1,2024
+S001,C208,Economics,B,1,2024
+S001,C202,Chemistry,F,1,2024
